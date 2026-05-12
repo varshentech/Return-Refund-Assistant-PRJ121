@@ -251,7 +251,7 @@ return-refund-assistant/
 ## 🏠 Landing Page
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1200&auto=format&fit=crop" width="85%" />
+  
 </p>
 
 ---
@@ -259,7 +259,7 @@ return-refund-assistant/
 ## 🤖 AI Chat Assistant
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1531746790731-6c087fecd65a?q=80&w=1200&auto=format&fit=crop" width="85%" />
+
 </p>
 
 ---
@@ -267,7 +267,7 @@ return-refund-assistant/
 ## 📊 Admin Dashboard
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1200&auto=format&fit=crop" width="85%" />
+<img width="960" height="467" alt="Screenshot 2026-05-12 104621" src="https://github.com/user-attachments/assets/dce5b64e-2b0c-4f70-8942-9e3cc607c385" />
 </p>
 
 ---
